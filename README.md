@@ -6,5 +6,5 @@ Não.
 -  Quais são os principais campos e tipo ?
 Nome , cpf , email e o curso escolhido pelo aluno.
 
-- Como  essas entidades  estão relacionadas 
+- Como  essas entidades  estão relacionadas ? 
 Pelo "Se Matricular", "Junção de alunos dos mesmo curso".
